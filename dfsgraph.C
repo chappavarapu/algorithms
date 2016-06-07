@@ -66,7 +66,7 @@ int main()
     cout << "Following is Depth First Traversal (starting from vertex 2) \n";
     g.DFS(2);
  
-    cout <<"\n";
+    cout <<"\n\n";
 
     return 0;
 }
