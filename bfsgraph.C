@@ -80,7 +80,7 @@ int main()
     cout << "Following is Breadth First Traversal (starting from vertex 2) \n";
     g.BFS(2);
  
-    cout <<"\n";
+    cout <<"\n\n";
 
     return 0;
 }
